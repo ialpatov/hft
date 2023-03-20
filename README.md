@@ -33,5 +33,7 @@ changes in the same direction.
 __References:__
 
 [1] Aldridge I. __High-Frequency Trading : A Practical Guide to Algorithmic Strategies and Trading Systems__. 2nd ed. Hoboken New Jersey: John Wiley & Sons; 2013.
+
 [2] Avellaneda M. & Stoikov S. __High Frequency Trading in a Limit Order Book__. Quantitative Finance. 8. 217-224. 10.1080/14697680701381228; 2008. 
+
 [3] Cont R. & de Larrard A. __Price Dynamics in a Markovian Limit Order Market__. SIAM Journal on Financial Mathematics, Society for Industrial and Applied Mathematics, 4 (1), pp.1-25. 10.1137/110856605; 2013.
